@@ -1,4 +1,3 @@
-```bash
 #!/bin/bash
 
 # Prints the IP of the interface passed as an argument
@@ -18,5 +17,4 @@ else
    echo ""
 fi
 
-```
 
